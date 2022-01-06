@@ -17,8 +17,8 @@ section{
     margin-bottom: 80px;
 }
 
-.orange-color{
-    color: orange;
+.blue-color{
+    color: rgb(106, 115, 236);
 }
 .align-center{
     text-align: center;
@@ -42,6 +42,11 @@ section{
     height: 40%;
     height: 30%;
     font-family: 'Raleway', sans-serif;
+    height: 110px;
+    border-radius: 3px;
+    margin-bottom: 40px;
+    line-height: 62px;
+    
     
 
     
