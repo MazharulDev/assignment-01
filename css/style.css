@@ -105,6 +105,12 @@ section{
     margin-left: 100px;
     margin-bottom: 50px;
 }
+
+.app{
+    text-align: center;
+}
+
+
 .subscribe{
     width: 100%;
     height: 500px;
