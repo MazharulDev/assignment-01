@@ -55,7 +55,7 @@ section{
     margin-left: 20px;
 }
 .link-btn{
-    background-color: #eb6666;
+    background-color: #8a91f1;
     padding: 10px 50px;
     text-decoration: none;
     color: #fff;
@@ -75,13 +75,13 @@ section{
     width: 40%;
 }
 #mission1{
-    background-color: rgb(241, 239, 233);
+    background-color: rgb(230, 228, 224);
 }
 #mission2{
     background-color: rgb(241, 232, 228);
 }
 #mission3{
-    background-color:rgb(236, 234, 241);
+    background-color:rgb(222, 230, 240);
 }
 .third-sec img{
     width: 70%;
@@ -140,7 +140,7 @@ section{
 }
 .from input{
     padding: 10px 100px 10px 10px;
-    border: 2px solid #da9b9b
+    border: 2px solid #8a91f1;
     ;
     margin-right: 15px;
     margin-top: 50px;
@@ -150,7 +150,7 @@ section{
     padding: 8px 25px;
     text-decoration: none;
     color: #fff;
-    background-color: #ce7575;
+    background-color: #8a91f1;
     border-radius: 5px;
 }
 
